@@ -1,30 +1,35 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: Tuesday, July 31, 2021(Version Control with GIT)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: learnt How to Create Git repository And Commit Code Online.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I Understand the importance of git and version control and how to document my code and progress online.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Git Repository](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: Monday,September 6, 2021 (Introduction to programming and Python Basics)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learnt about introduction to programming with Python, decision-making statements,
+Object oriented programming concepts, looping statements, Algorithm approach to solve a problem, introduction to python,
+Introduction to Jupyter Notebook, Variables and data types in python.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Keep on Coding and practising.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Great Learning](https://olympus.greatlearning.in/dashboard)
 
+### Day 2: Tuesday, September 7, 2021(JavaScript Basics)
 
-### Day 1: June 27, Monday
+**Today's Progress**: learnt How to use maths operator, increment and decrement, using console, loops,arrays,looping through arrays and chrome developer tools,.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** I Understand the importance of mastering the basics to make my work much easier ahead.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:** [30 Days Of JavaScript](https://github.com/matengodev/30-Days-Of-JavaScript/)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+Day 3: Wednesday, September 8, 2021(JavaScript Basics)
+
+**Today's Progress**: learnt How to use let const and var,Create functions,Taking decisions with If Else Statements.
+
+**Thoughts:** I Understand the importance of mastering the basics to make my work much easier ahead.
+
+**Link to work:** [Jonas Udemy Course Complete JavaScript Course](https://drive.google.com/drive/u/2/folders/1ZqG2QTmVk_rI91BXoueTr-Q9vbzT5fqa)
