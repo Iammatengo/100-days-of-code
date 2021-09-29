@@ -12,7 +12,7 @@
 
 **Today's Progress**: Learnt about introduction to programming with Python, decision-making statements,
 Object oriented programming concepts, looping statements, Algorithm approach to solve a problem, introduction to python,
-Introduction to Jupyter Notebook, Variables and data types in python.
+Introduction to Jupyter_Notebook, Variables and data types in python.
 
 **Thoughts:** Keep on Coding and practising.
 
