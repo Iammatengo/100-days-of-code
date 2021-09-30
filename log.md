@@ -28,8 +28,8 @@ Introduction to Jupyter_Notebook, Variables and data types in python.
 
 ### Day 3: Wednesday, September 29, 2021(Creating A Website on wordpress and pushed it online)
 
-**Today's Progress**: learnt How to use .
+**Today's Progress**: learnt How to download wordpress,customize the site and push to an online server to be viewed by the public
 
 **Thoughts:** I Understand the importance of wordpress and how good i can customize and make professional websites using the many different themes and builders available.
 
-**Link to work:** [Mazacktech Website](https://google.com)
+**Link to work:** [Mazacktech Technologies Website](https://google.com)
