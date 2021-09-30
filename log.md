@@ -24,4 +24,12 @@ Introduction to Jupyter_Notebook, Variables and data types in python.
 
 **Thoughts:** I Understand the importance of mastering the basics to make my work much easier ahead.
 
-**Link to work:** [30 Days Of JavaScript](https://github.com/matengodev/30-Days-Of-JavaScript/)
+**Link to work:** [30 Days Of JavaScript](https://github.com/matengodev/30-Days-Of-JavaScript
+
+### Day 3: Wednesday, September 29, 2021(Creating A Website on wordpress and pushed it online)
+
+**Today's Progress**: learnt How to use .
+
+**Thoughts:** I Understand the importance of wordpress and how good i can customize and make professional websites using the many different themes and builders available.
+
+**Link to work:** [Mazacktech Website](https://google.com)
