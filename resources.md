@@ -51,6 +51,10 @@
 4. ["PHP Developer roadmap](https://github.com/thecodeholic/php-developer-roadmap)
 5. ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
 6. ["Release You Potential By Dr Myles Munroe](https://www.google.com)
+7. ["Good To Be Great By Jim Collins](https://www.google.com)
+8. ["A New Earth By Eckhart Tolle](https://www.google.com)
+9. ["The Ride of a lifetime By Robert Iger](https://www.google.com)
+10. ["Zero To One By Peter Thiel](https://www.google.com)
 
 ### Coding
 
