@@ -4,7 +4,11 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
+<<<<<<< HEAD
 September 25th, 2021.
+=======
+September 16th, 2021
+>>>>>>> bf9e2a2aa3892f7f6e9e5c3642953bc6a1101e98
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode

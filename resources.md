@@ -16,6 +16,7 @@
 
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 2. [Build a Laravel CRUD Application from scratch](https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/)
+3. [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/#instructor-1)
 
 ## Projects and Ideas
 
