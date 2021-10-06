@@ -33,3 +33,11 @@ Introduction to Jupyter_Notebook, Variables and data types in python.
 **Thoughts:** I Understand the importance of wordpress and how good i can customize and make professional websites using the many different themes and builders available.
 
 **Link to work:** [Mazacktech Technologies Website](https://google.com)
+
+### Day 4: Monday, October 4, 2021(Learnt about Arrays in JavaScript, DOM)
+
+**Today's Progress**: learnt How to use and apply high order arrays,Document Object Model,Ternary Operator
+
+**Thoughts:** Knowing how to loop through an array is very important and also knowing which method to use eg ForEach, Filter, Map,I also learnt that we should never nest a ternary operator and instead just use an if else statement(WDS)
+
+**Link to work:** [CodeStacker Youtube And WebDev Simplified](https://youtube.com)
