@@ -40,6 +40,7 @@
 14. [Great Learning](https://olympus.greatlearning.in/courses/12682/pages/operators-in-python?resume=291)
 15. [DesignCourse - HTML AND CSS](https://www.youtube.com/watch?v=D-h8L5hgW-w&ab_channel=DesignCourse)
 16. [JavaScript Complete Course 2020](https://drive.google.com/drive/u/2/folders/1ZqG2QTmVk_rI91BXoueTr-Q9vbzT5fqa)
+17. [General Assembly Dash](https://dash.generalassemb.ly/projects/annas-website-3)
 
 ## Books (both coding and non-coding)
 
