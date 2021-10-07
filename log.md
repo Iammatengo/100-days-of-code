@@ -41,3 +41,11 @@ Introduction to Jupyter_Notebook, Variables and data types in python.
 **Thoughts:** Knowing how to loop through an array is very important and also knowing which method to use eg ForEach, Filter, Map,I also learnt that we should never nest a ternary operator and instead just use an if else statement(WDS)
 
 **Link to work:** [CodeStacker Youtube And WebDev Simplified](https://youtube.com)
+
+### Day 4: Tuesday, October 5 , 2021(Worked on a tribute page and hosted it online)
+
+**Today's Progress**: learnt how to use many HTML and CSS Attributes and properties
+
+**Thoughts:**  I dont know many things about CSS Properties but I definatelly want to learn more. This project was inspired by: 
+
+**Link to work:** [RAO Tribute Page](https://rao-tribute-iammatengo.netlify.app/)
