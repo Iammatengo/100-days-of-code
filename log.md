@@ -50,7 +50,7 @@ Introduction to Jupyter_Notebook, Variables and data types in python.
 
 **Link to work:** [RAO Tribute Page](https://rao-tribute-iammatengo.netlify.app/)
 
-### Day 5: Wednesday, October 5 , 2021(Worked on a tribute page and hosted it online)
+### Day 5: Wednesday, October 5 , 2021(SQL Basics)
 
 **Today's Progress**: learnt about SQL Databases.
 
