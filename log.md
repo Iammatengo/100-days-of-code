@@ -42,7 +42,7 @@ Introduction to Jupyter_Notebook, Variables and data types in python.
 
 **Link to work:** [CodeStacker Youtube And WebDev Simplified](https://youtube.com)
 
-### Day 4: Tuesday, October 5 , 2021(Worked on a tribute page and hosted it online)
+### Day 5: Tuesday, October 5 , 2021(Worked on a tribute page and hosted it online)
 
 **Today's Progress**: learnt how to use many HTML and CSS Attributes and properties
 
@@ -50,7 +50,7 @@ Introduction to Jupyter_Notebook, Variables and data types in python.
 
 **Link to work:** [RAO Tribute Page](https://rao-tribute-iammatengo.netlify.app/)
 
-### Day 5: Wednesday, October 5 , 2021(SQL Basics)
+### Day 6: Wednesday, October 5 , 2021(SQL Basics)
 
 **Today's Progress**: learnt about SQL Databases.
 
@@ -58,7 +58,7 @@ Introduction to Jupyter_Notebook, Variables and data types in python.
 
 **Link to work:** [Socratica](https://github.com/socratica/sql)
 
-### Day 6: Thursday, October 6 , 2021(Interview Preparation)
+### Day 7: Thursday, October 6 , 2021(Interview Preparation)
 
 **Today's Progress**: I did not code but spent time preparing for an interview that I had
 
