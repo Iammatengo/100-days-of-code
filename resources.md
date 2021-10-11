@@ -21,6 +21,7 @@
 
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
+3. [Frontend Mentor](https://www.frontendmentor.io/challenges)
 
 ## Other resources
 
@@ -41,6 +42,7 @@
 15. [DesignCourse - HTML AND CSS](https://www.youtube.com/watch?v=D-h8L5hgW-w&ab_channel=DesignCourse)
 16. [JavaScript Complete Course 2020](https://drive.google.com/drive/u/2/folders/1ZqG2QTmVk_rI91BXoueTr-Q9vbzT5fqa)
 17. [General Assembly Dash](https://dash.generalassemb.ly/projects/annas-website-3)
+18. [FrontEnd Mentor](https://www.frontendmentor.io/resources)
 
 ## Books (both coding and non-coding)
 
