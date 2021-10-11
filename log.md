@@ -57,3 +57,12 @@ Introduction to Jupyter_Notebook, Variables and data types in python.
 **Thoughts:**  I will keep on practising to grasp the majaor concepts much better like - ALTER,DROP,INSERT and many more.
 
 **Link to work:** [Socratica](https://github.com/socratica/sql)
+
+### Day 6: Thursday, October 6 , 2021(Interview Preparation)
+
+**Today's Progress**: I did not code but spent time preparing for an interview that I had
+
+**Thoughts:**  I will keep on the consistency 
+
+**Link to work:** [Jobs Portal](https://app.slack.com/client/T01GY3Q18P7/C01H7D61204)
+
