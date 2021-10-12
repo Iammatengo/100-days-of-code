@@ -66,3 +66,10 @@ Introduction to Jupyter_Notebook, Variables and data types in python.
 
 **Link to work:** [Jobs Portal](https://app.slack.com/client/T01GY3Q18P7/C01H7D61204)
 
+### Day 8: Monday, October 11 , 2021(Python Fundementals)
+
+**Today's Progress**: I learnt about conditional statements in Python, If statements,elif amd else statement- iterating using for loop,while loop
+
+**Thoughts:**  I will have to dig deeper into break,pass and enumerate statements.
+
+**Link to work:** [Udemy Course](https://www.udemy.com/course/python-programming-beginner-to-advanced/learn/lecture/17923706?start=600#notes)
