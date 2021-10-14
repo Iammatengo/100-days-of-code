@@ -73,3 +73,11 @@ Introduction to Jupyter_Notebook, Variables and data types in python.
 **Thoughts:**  I will have to dig deeper into break,pass and enumerate statements.
 
 **Link to work:** [Udemy Course](https://www.udemy.com/course/python-programming-beginner-to-advanced/learn/lecture/17923706?start=600#notes)
+
+Day 8: Tuesday, October 12 , 2021(How The Internet Works)
+
+**Today's Progress**: Took Time off to read about how the internet works
+
+**Thoughts:**  Got conversant with how these three interact: The client, ISP and the DNS server
+
+**Link to work:** [How The Internet Works](https://www.google.com)
