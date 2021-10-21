@@ -74,10 +74,10 @@ Introduction to Jupyter_Notebook, Variables and data types in python.
 
 **Link to work:** [Udemy Course](https://www.udemy.com/course/python-programming-beginner-to-advanced/learn/lecture/17923706?start=600#notes)
 
-Day 8: Tuesday, October 12 , 2021(How The Internet Works)
+### Day 9: Wednesday, October 21 , 2021(Microsoft 365)
 
-**Today's Progress**: Took Time off to read about how the internet works
+**Today's Progress**: Took Time off code to learn about office 365
 
-**Thoughts:**  Got conversant with how these three interact: The client, ISP and the DNS server
+**Thoughts:**  Since I have worked with Active Directory before it was much easy to grasp the basic tasks involved like user creation
 
-**Link to work:** [How The Internet Works](https://www.google.com)
+**Link to work:** [Microsoft 365](https://www.google.com)
