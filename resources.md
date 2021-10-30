@@ -43,6 +43,8 @@
 16. [JavaScript Complete Course 2020](https://drive.google.com/drive/u/2/folders/1ZqG2QTmVk_rI91BXoueTr-Q9vbzT5fqa)
 17. [General Assembly Dash](https://dash.generalassemb.ly/projects/annas-website-3)
 18. [FrontEnd Mentor](https://www.frontendmentor.io/resources)
+19. [Zero to Hero: backend developer roadmap 2021](https://vittoriorivabella.medium.com/zero-to-hero-backend-developer-roadmap-2021-8b6985cfe2d)
+20. [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/block-v1:HarvardX+CS50+X+type@sequential+block@6ea5a2ca5fdf422b8c6b4c993fe75083/block-v1:HarvardX+CS50+X+type@vertical+block@0918166e0e724489ba66bc9304068326)
 
 ## Books (both coding and non-coding)
 
