@@ -14,9 +14,7 @@
 
 **Thoughts:** Keep on Coding and practising.
 
-<<<<<<< HEAD
 **Link to work:** [FreeCodeCamp Blog](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/)
-=======
 **Link to work:** [Great Learning](https://olympus.greatlearning.in/dashboard)
 
 ### Day 2: Tuesday, September 28, 2021(JavaScript Basics)
@@ -82,4 +80,3 @@
 **Thoughts:**  Since I have worked with Active Directory before it was much easy to grasp the basic tasks involved like user creation
 
 **Link to work:** [Microsoft 365](https://www.google.com)
->>>>>>> 023e44f8e800d4a14ca97c77934947a422689122
