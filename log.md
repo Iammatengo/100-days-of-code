@@ -15,3 +15,11 @@
 **Thoughts:** Keep on Coding and practising.
 
 **Link to work:** [FreeCodeCamp Blog](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/)
+
+### Day 1: Monday ,December 07, 2021 (HTML,CSS Refresher)
+
+**Today's Progress**:  Had a refresher on HTML tags - 
+
+**Thoughts:** Keep on Coding and practising.
+
+**Link to work:** [The Complete Web Developer in 2021 - Zero to Mastery](https://zerotomastery.io/)
