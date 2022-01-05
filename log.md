@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: Saturday, December 25, 2021(Version Control with GIT)
+### Day 0: Sunday, January 2, 2022(Version Control with GIT)
 
 **Today's Progress**: learnt How to Create Git repository And Commit Code Online.
 
@@ -8,7 +8,7 @@
 
 **Link to work:** [Git Repository](http://www.example.com)
 
-### Day 1: Sunday ,December 26, 2021 (How the Web Works: A Primer for Newcomers to Web Development)
+### Day 1: Monday ,January 3, 2022 (How the Web Works: A Primer for Newcomers to Web Development)
 
 **Today's Progress**:  Learn About The Following : Part 1: How the web works,Part 2: Structure of a Web Application, Part 3: HTTP and REST and Part 4: Code examples of client-server interactions
 
@@ -16,18 +16,10 @@
 
 **Link to work:** [FreeCodeCamp Blog](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/)
 
-### Day 1: Monday ,December 27, 2021 (HTML,CSS Refresher)
+### Day 2: Tuesday ,January 4, 2022 (HTML,CSS Refresher)
 
-**Today's Progress**:  Had a refresher on advanced HTML concepts
+**Today's Progress**:  Had a refresher on advanced HTML concepts - Build a first web page with HTML and CSS,Distinguish between HTML and CSS and identify their separate uses,Identify and apply correct syntax for common HTML elements, Explain how semantic HTML tags are used to structure a web page,Use tags and attributes to identify key information within a page, Identify and use correct CSS syntax,Apply CSS to HTML elements
 
 **Thoughts:** Keep on Coding and practising to get better
 
-**Link to work:** [The Complete Web Developer in 2021 - Zero to Mastery](https://zerotomastery.io/)
-
-### Day 2: Tuesday ,December 28, 2021 (Types Of languages)
-
-**Today's Progress**:  Learnt about Types of languages which are Procedural, Functional, Object Oriented
-
-**Thoughts:** Hold the vision Trust the process and keep on coding
-
-**Link to work:** [Introduction to Programming](https://www.youtube.com/watch?v=wn49bJOYAZM&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+**Link to work:** [Open ClassRooms](https://openclassrooms.com/)
