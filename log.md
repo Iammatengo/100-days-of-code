@@ -21,5 +21,11 @@
 **Today's Progress**:  Had a refresher on advanced HTML concepts - Build a first web page with HTML and CSS,Distinguish between HTML and CSS and identify their separate uses,Identify and apply correct syntax for common HTML elements, Explain how semantic HTML tags are used to structure a web page,Use tags and attributes to identify key information within a page, Identify and use correct CSS syntax,Apply CSS to HTML elements
 
 **Thoughts:** Keep on Coding and practising to get better
-
 **Link to work:** [Open ClassRooms](https://openclassrooms.com/)
+
+### Day 3: Saturday ,January 22, 2022 (Introduction To Java)
+
+**Today's Progress**: Java Installation, Eclipse IDE Installation, Basic Java Program, Data Types In Java
+
+**Thoughts:** Keep on Coding and practising to get better
+**Link to work:** [SDET- QA Automation Techie](https://www.youtube.com/watch?v=ms3NggvNW40&list=PLUDwpEzHYYLv9v8aRuNi67vZ81cW2ksze&ab_channel=SDET-QAAutomationTechie)
