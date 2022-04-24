@@ -23,9 +23,9 @@
 **Thoughts:** Keep on Coding and practising to get better
 **Link to work:** [Open ClassRooms](https://openclassrooms.com/)
 
-### Day 3: Saturday ,January 22, 2022 (Introduction To Java)
+### Day 3: Sunday,April 24, 2022 (Introduction To Java)
 
 **Today's Progress**: Java Installation, Eclipse IDE Installation, Basic Java Program, Data Types In Java
 
 **Thoughts:** Keep on Coding and practising to get better
-**Link to work:** [SDET- QA Automation Techie](https://www.youtube.com/watch?v=ms3NggvNW40&list=PLUDwpEzHYYLv9v8aRuNi67vZ81cW2ksze&ab_channel=SDET-QAAutomationTechie)
+**Link to work:** [The Nerdy Dev](https://www.youtube.com/watch?v=VD9ICFtb44w&list=PLXgqhtspYCM8HOc5oYrcNUIjx6v4V7qML&index=6)
