@@ -50,3 +50,11 @@
 
 **Thoughts:** Keep on Coding and practising to get better
 **Link to work:** [AB EDUTECH](https://www.udemy.com/course/learn-java-fundamentals-for-beginners/learn/lecture/27457362#overview)
+
+### Day 7: Sunday,May 29, 2022 (Data Types In Delphi )
+
+**Today's Progress**: Delphi Data Types:Covered Integers, Decimal TYpes 
+
+**Thoughts:** Keep on Coding and practising to get better
+**Link to work:** [Delphi Basics](http://www.delphibasics.co.uk/Article.asp?Name=DataTypes)
+
