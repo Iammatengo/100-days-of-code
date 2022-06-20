@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: Sunday, January 2, 2022(Version Control with GIT)
+### Day 0: Sunday, June 19, 2022(Version Control with GIT)
 
 **Today's Progress**: learnt How to Create Git repository And Commit Code Online.
 
@@ -8,53 +8,11 @@
 
 **Link to work:** [Git Repository](http://www.example.com)
 
-### Day 1: Monday ,January 3, 2022 (How the Web Works: A Primer for Newcomers to Web Development)
+### Day 1: Monday ,June 20, 2022 (How the Web Works: A Primer for Newcomers to Web Development)
 
 **Today's Progress**:  Learn About The Following : Part 1: How the web works,Part 2: Structure of a Web Application, Part 3: HTTP and REST and Part 4: Code examples of client-server interactions
 
 **Thoughts:** Keep on Coding and practising.
 
 **Link to work:** [FreeCodeCamp Blog](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/)
-
-### Day 2: Tuesday ,January 4, 2022 (HTML,CSS Refresher)
-
-**Today's Progress**:  Had a refresher on advanced HTML concepts - Build a first web page with HTML and CSS,Distinguish between HTML and CSS and identify their separate uses,Identify and apply correct syntax for common HTML elements, Explain how semantic HTML tags are used to structure a web page,Use tags and attributes to identify key information within a page, Identify and use correct CSS syntax,Apply CSS to HTML elements
-
-**Thoughts:** Keep on Coding and practising to get better
-**Link to work:** [Open ClassRooms](https://openclassrooms.com/)
-
-### Day 3: Sunday,April 24, 2022 (Introduction To Java)
-
-**Today's Progress**: Java Installation, Eclipse IDE Installation, Basic Java Program, Data Types In Java
-
-**Thoughts:** Keep on Coding and practising to get better
-**Link to work:** [The Nerdy Dev](https://www.youtube.com/watch?v=VD9ICFtb44w&list=PLXgqhtspYCM8HOc5oYrcNUIjx6v4V7qML&index=6)
-
-### Day 4: Wednesday,April 24, 2022 (Java Type Casting, )
-
-**Today's Progress**: Java Installation, Eclipse IDE Installation, Basic Java Program, Data Types In Java
-
-**Thoughts:** Keep on Coding and practising to get better
-**Link to work:** [The Nerdy Dev](https://www.youtube.com/watch?v=VD9ICFtb44w&list=PLXgqhtspYCM8HOc5oYrcNUIjx6v4V7qML&index=6)
-
-### Day 5: Thursday,May 12, 2022 (Programming and Algorithms )
-
-**Today's Progress**: Programming and Algorithms
-
-**Thoughts:** Keep on Coding and practising to get better
-**Link to work:** [Angie Jones](https://www.linkedin.com/learning/)
-
-### Day 6: Sunday,May 22, 2022 (Control Flow In Java )
-
-**Today's Progress**: Java Control flow
-
-**Thoughts:** Keep on Coding and practising to get better
-**Link to work:** [AB EDUTECH](https://www.udemy.com/course/learn-java-fundamentals-for-beginners/learn/lecture/27457362#overview)
-
-### Day 7: Sunday,May 29, 2022 (Data Types In Delphi )
-
-**Today's Progress**: Delphi Data Types:Covered Integers, Decimal TYpes 
-
-**Thoughts:** Keep on Coding and practising to get better
-**Link to work:** [Delphi Basics](http://www.delphibasics.co.uk/Article.asp?Name=DataTypes)
 

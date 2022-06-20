@@ -40,7 +40,7 @@ The themes covered are:
 - **Minimalism** Living with less has lots of benefits: reduced stress, less cleaning, better finances and a lot more!
 - **Other topics**. Psychology, learning to code, alternative lifestyles and more.
 
-Join the Do the Opposite Community!
+Join the Do the Opposite Community!!
 
 💌 [SUBSCRIBE to the newsletter and start changing your life!](https://dotheopposite.substack.com/)
 
