@@ -16,3 +16,10 @@
 
 **Link to work:** [FreeCodeCamp Blog](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/)
 
+### Day 2: Wednesday ,June 22, 2022 (HTML Basics)
+
+**Today's Progress**:  Learn About The Following : HTML Basic Tags
+
+**Thoughts:** Keep on Coding and practising.
+
+**Link to work:** [Colt Steel BootCamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
