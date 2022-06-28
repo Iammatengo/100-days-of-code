@@ -23,3 +23,11 @@
 **Thoughts:** Keep on Coding and practising.
 
 **Link to work:** [Colt Steel BootCamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
+
+### Day 3: Wednesday ,June 28, 2022 (HTML and CSS Basics)
+
+**Today's Progress**:  Learn About The Following : HTML Entities Hovers,Transitions,Shadows, The HTML Structure,Opacity  and many other CSS Properties
+
+**Thoughts:** Keep on Coding and practising.
+
+**Link to work:** [SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc)
