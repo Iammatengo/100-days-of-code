@@ -16,7 +16,7 @@
 
 **Link to work:** [FreeCodeCamp Blog](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/)
 
-### Day 2: Monday ,September, 2022 (HTML Basics and CSS)
+### Day 2: Monday ,September 12 , 2022 (HTML Basics and CSS)
 
 **Today's Progress**:  Learn About The Following : HTML Basic Tags
 
