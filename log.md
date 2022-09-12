@@ -16,18 +16,10 @@
 
 **Link to work:** [FreeCodeCamp Blog](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/)
 
-### Day 2: Wednesday ,June 22, 2022 (HTML Basics)
+### Day 2: Monday ,September, 2022 (HTML Basics and CSS)
 
 **Today's Progress**:  Learn About The Following : HTML Basic Tags
 
 **Thoughts:** Keep on Coding and practising.
 
-**Link to work:** [Colt Steel BootCamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
-
-### Day 3: Wednesday ,June 28, 2022 (HTML and CSS Basics)
-
-**Today's Progress**:  Learn About The Following : HTML Entities Hovers,Transitions,Shadows, The HTML Structure,Opacity  and many other CSS Properties
-
-**Thoughts:** Keep on Coding and practising.
-
-**Link to work:** [SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc)
+**Link to work:** [Dr Angela Yu BootCamp](https://mega.nz/fm/KhFQTLQD)
